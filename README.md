@@ -1,3 +1,3 @@
 # Bogachan's UX Journal
 
-Bogachan is a student of the class
+![User interface](assets/a.jpg)Bogachan is a student of the class
