@@ -1,1 +1,3 @@
-# ___'s UX Journal
+# Bogachan's UX Journal
+
+Bogachan is a student of the class
